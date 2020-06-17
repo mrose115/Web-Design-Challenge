@@ -1,6 +1,6 @@
 # Web-Design-Challenge
 
-Text to enter
+The purpose of this project was to create and design a web page containing links to other pages and incorporating saved images. Another part of the project was to convert a CSV file to HTML in order to include it in a webpage. Some screenshots of the final project are below. 
 
 <img width="1062" alt="screenshot1" src="https://user-images.githubusercontent.com/57542250/84825788-d505a300-afd6-11ea-8adf-f3f7caffd463.PNG">
 
